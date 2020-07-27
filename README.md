@@ -13,5 +13,6 @@ Project Overview:
 * EDA comparing the numerical columns to the university ranking
 * Data model that predicts the graduate admission probability with MAE ~4%
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
+* This dataset only provides the chance of admission for one university, but I think it would be beneficial for any candidate to know their chances at universities at each rank.
 
 Data Credit: Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019
